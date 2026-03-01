@@ -1,5 +1,3 @@
-package session14.kha1;
-
 import java.util.*;
 
 public class Main {
